@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\bin\Debug\netcoreapp3.1\BooleanLogicalOperators.exe
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\bin\Debug\netcoreapp3.1\BooleanLogicalOperators.deps.json
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\bin\Debug\netcoreapp3.1\BooleanLogicalOperators.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\bin\Debug\netcoreapp3.1\BooleanLogicalOperators.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\bin\Debug\netcoreapp3.1\BooleanLogicalOperators.dll
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\bin\Debug\netcoreapp3.1\BooleanLogicalOperators.pdb
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.dll
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.pdb
+C:\Users\opilane\source\repos\TITpe21\BooleanLogicalOperators\BooleanLogicalOperators\obj\Debug\netcoreapp3.1\BooleanLogicalOperators.genruntimeconfig.cache
